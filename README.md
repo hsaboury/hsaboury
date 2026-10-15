@@ -122,7 +122,3 @@ AI-Assisted Software Development · Data & AI · Product Architecture
 
 ---
 
-<p align="center">
-  This profile README was inspired by the GitHub profile of my mentor,
-  <a href="https://github.com/alisadeghiaghili"><strong>Ali Sadeghi Aghili</strong></a>.
-</p>
