@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/hsaboury-868686?style=flat&logoColor=white" alt="hsaboury">
+    <img src="https://img.shields.io/badge/forlogin-868686?style=flat&logoColor=white" alt="forlogin">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/motamem-0E9545?style=flat&logoColor=white" alt="motamem">
@@ -44,13 +44,21 @@ Currently, I focus on building software products and digital solutions, combinin
 
 ## 📦 Featured Projects
 
+### Forlogin
+
+I'm building [**Forlogin**](https://forlogin.ir/), a modular authentication platform focused on digital identity, secure authentication, and digital trust.
+
+Forlogin is designed to provide flexible and extensible authentication solutions across different digital platforms. Its first integration targets the Joomla ecosystem, with broader platform support planned as the product evolves.
+
+The project brings together my interests in software architecture, security, and building reusable technology products.
+
 ### Ceebl
 
-I'm building [**Ceebl**](https://ceebl.ir/), a product ecosystem focused on digital identity, authentication, and digital trust.
+I'm developing [**Ceebl**](https://ceebl.ir/), a digital platform focused on exhibition management and streamlining exhibition-related business processes.
 
-The first product, **Ceebl Authentication**, is a modular authentication platform designed to provide secure and flexible authentication experiences across digital platforms. Its first integration targets the Joomla ecosystem, with broader platform support planned as the product evolves.
+Built on years of experience working with exhibition systems, Ceebl aims to help exhibition organizers manage their operations more efficiently through practical, integrated digital solutions.
 
-Ceebl is where I put many of my ideas about software architecture, product development, security, and business-driven technology into practice.
+The project reflects my approach to solving real business problems by understanding operational needs and translating them into usable software products.
 
 ### 🌟 Open-Source Collaboration
 
